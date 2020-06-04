@@ -1,0 +1,15 @@
+CF
+C(F)F
+C(F)(F)F
+C(F)(F)(F)F
+CCl
+C(Cl)Cl
+C(Cl)(Cl)Cl
+C(Cl)(Cl)(Cl)Cl
+C(Cl)(F)(F)F
+C(Cl)(Cl)(F)F
+C(Cl)(Cl)(Cl)F
+CC(Cl)(F)F
+CC(Cl)(Cl)F
+C(Cl)F
+CC(Cl)F

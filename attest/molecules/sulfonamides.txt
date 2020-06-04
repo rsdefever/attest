@@ -1,0 +1,14 @@
+CS(=O)(=O)N
+CCS(=O)(=O)N
+CCCS(=O)(=O)N
+CCCCS(=O)(=O)N
+C(C)(C)S(=O)(=O)N
+C(CC)(CC)S(=O)(=O)N
+CS(=O)(=O)NC
+CS(=O)(=O)NCC
+CS(=O)(=O)NCCC
+CS(=O)(=O)NCCCC
+CS(=O)(=O)N(C)C
+CS(=O)(=O)N(CC)CC
+CS(=O)(=O)N(CCC)CCC
+CCS(=O)(=O)N(CCC)CCC

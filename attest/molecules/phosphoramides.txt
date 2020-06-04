@@ -1,0 +1,5 @@
+P(=O)(N)(N)N
+P(=O)(NC)(NC)NC
+P(=O)(NCC)(NCC)NCC
+P(=O)(N(C)C)(N(C)C)N(C)C
+P(=O)(N(CC)CC)(N(CC)CC)N(CC)CC
